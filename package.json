@@ -1,0 +1,16 @@
+{
+  "name": "node-vuln-app-resolve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
